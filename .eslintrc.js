@@ -25,5 +25,8 @@ module.exports = {
             'error',
             'never'
         ]
+    }, 
+    'parserOptions': {
+        'sourceType': 'module',
     }
 }
